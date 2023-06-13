@@ -1,0 +1,16 @@
+.Card {
+  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 3fr 3fr 3fr 3fr;
+  text-decoration: none;
+  list-style: none;
+}
+.listItem {
+  margin: 3rem;
+}
+.landing {
+  height: 80vh;
+  background-color: black;
+}
+
